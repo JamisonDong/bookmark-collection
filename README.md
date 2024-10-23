@@ -1,3 +1,4 @@
+- [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/) #工作流
 - [Kimi.ai - 帮你看更大的世界](https://kimi.moonshot.cn/chat/cs8ctpibhd5hoinqscn0)
 
 # About
