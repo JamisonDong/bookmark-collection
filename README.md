@@ -1,3 +1,4 @@
+- [Package Manager - sing-box](https://sing-box.sagernet.org/installation/package-manager/)
 - [Advanced geospatial toolkit for Typescript | Turf.js](https://turfjs.org/)
 - [Django](https://www.djangoproject.com/)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
