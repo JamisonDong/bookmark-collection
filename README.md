@@ -1,3 +1,4 @@
+- [302.AI - All-in-one Al App Platform, pay-as-you-go, ready to use, open-source](https://302.ai/en/)
 - [Zed - The editor for what's next](https://zed.dev/)
 - [Introduction - qiankun](https://qiankun.umijs.org/guide)
 - [FileCentipede/README.zh-CN.md at main · filecxx/FileCentipede](https://github.com/filecxx/FileCentipede/blob/main/README.zh-CN.md)
