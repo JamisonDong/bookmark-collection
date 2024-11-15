@@ -1,3 +1,4 @@
+- [一站式 iframe 生成器 | 专业的嵌入内容可视化配置工具](https://iframegenerator.top/)
 - [302.AI - All-in-one Al App Platform, pay-as-you-go, ready to use, open-source](https://302.ai/en/)
 - [Zed - The editor for what's next](https://zed.dev/)
 - [Introduction - qiankun](https://qiankun.umijs.org/guide)
