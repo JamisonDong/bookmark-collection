@@ -1,3 +1,4 @@
+- [Papers with Code - The latest in Machine Learning](https://paperswithcode.com/)
 - [Hiring Without Whiteboards - Airtable](https://airtable.com/app3GPfBakzyWI8WO/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs)
 - [Payload: The Next.js Headless CMS and App Framework](https://payloadcms.com/)
 - [一站式 iframe 生成器 | 专业的嵌入内容可视化配置工具](https://iframegenerator.top/)
