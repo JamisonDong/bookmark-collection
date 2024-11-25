@@ -1,3 +1,4 @@
+- [FirstMark | 2024 MAD (ML/AI/Data) Landscape](https://mad.firstmark.com/)
 - [Papers with Code - The latest in Machine Learning](https://paperswithcode.com/)
 - [Hiring Without Whiteboards - Airtable](https://airtable.com/app3GPfBakzyWI8WO/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs)
 - [Payload: The Next.js Headless CMS and App Framework](https://payloadcms.com/)
