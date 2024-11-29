@@ -1,3 +1,4 @@
+- [Animate.css | A cross-browser library of CSS animations.](https://animate.style/)
 - [Mastering iTerm2: Setting Up Custom Status Bars](https://wompa.land/articles/iterm-status-bar)
 - [FirstMark | 2024 MAD (ML/AI/Data) Landscape](https://mad.firstmark.com/)
 - [Papers with Code - The latest in Machine Learning](https://paperswithcode.com/)
