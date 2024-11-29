@@ -1,3 +1,4 @@
+- [看见概率论 - 通过交互式演示理解经典概率论定理](https://probability.visualized.fun/)
 - [Animate.css | A cross-browser library of CSS animations.](https://animate.style/)
 - [Mastering iTerm2: Setting Up Custom Status Bars](https://wompa.land/articles/iterm-status-bar)
 - [FirstMark | 2024 MAD (ML/AI/Data) Landscape](https://mad.firstmark.com/)
