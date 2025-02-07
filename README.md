@@ -1,3 +1,4 @@
+- [Safe Assignment | Alan Johnson](https://nalanj.dev/posts/safe-assignment/)
 - [站酷ZCOOL-设计师互动平台-打开站酷，发现更好的设计！](https://www.zcool.com.cn/)
 - [My Wallet —— 记账工具_Markcrs-站酷ZCOOL](https://www.zcool.com.cn/work/ZMjExOTI4OTY=.html)
 - [看见概率论 - 通过交互式演示理解经典概率论定理](https://probability.visualized.fun/)
