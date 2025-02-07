@@ -1,3 +1,4 @@
+- [iTerm2 features I find useful](https://danielde.dev/blog/iterm2-features-i-find-useful)
 - [Safe Assignment | Alan Johnson](https://nalanj.dev/posts/safe-assignment/)
 - [站酷ZCOOL-设计师互动平台-打开站酷，发现更好的设计！](https://www.zcool.com.cn/)
 - [My Wallet —— 记账工具_Markcrs-站酷ZCOOL](https://www.zcool.com.cn/work/ZMjExOTI4OTY=.html)
