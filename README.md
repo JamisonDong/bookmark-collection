@@ -1,3 +1,4 @@
+- [Understanding Reasoning LLMs](https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html)
 - [InternetSpeed.my: Internet Speed Test](https://www.internetspeed.my/)
 - [iTerm2 features I find useful](https://danielde.dev/blog/iterm2-features-i-find-useful)
 - [Safe Assignment | Alan Johnson](https://nalanj.dev/posts/safe-assignment/)
