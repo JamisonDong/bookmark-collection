@@ -1,3 +1,4 @@
+- [本地部署deepseek模型保姆级教程 - 封尘博客](https://blog.lovefc.cn/archives/start.html)
 - [uv](https://docs.astral.sh/uv/)
 - [Understanding Reasoning LLMs](https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html)
 - [InternetSpeed.my: Internet Speed Test](https://www.internetspeed.my/)
