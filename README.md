@@ -1,3 +1,4 @@
+- [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/?code=AIFM)
 - [Ahead of AI | Sebastian Raschka, PhD | Substack](https://magazine.sebastianraschka.com/)
 - [总览 - Ant Design X](https://x.ant.design/components/overview-cn)
 - [本地部署deepseek模型保姆级教程 - 封尘博客](https://blog.lovefc.cn/archives/start.html)
