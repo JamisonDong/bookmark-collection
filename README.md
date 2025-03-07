@@ -1,3 +1,4 @@
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 - [MCP Servers](https://mcp.so/servers)
 - [Cursor Directory](https://cursor.directory/rules/popular)
 - [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/?code=AIFM)
