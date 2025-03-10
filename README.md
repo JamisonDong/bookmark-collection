@@ -1,3 +1,4 @@
+- [Manus](https://manus.im/)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 - [MCP Servers](https://mcp.so/servers)
 - [Cursor Directory](https://cursor.directory/rules/popular)
