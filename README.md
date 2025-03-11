@@ -1,3 +1,4 @@
+- [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news)
 - [Manus](https://manus.im/)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 - [MCP Servers](https://mcp.so/servers)
