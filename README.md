@@ -1,3 +1,4 @@
+- [ai-bytedance/obsidian-cloud-sync](https://github.com/ai-bytedance/obsidian-cloud-sync)
 - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 - [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news)
 - [Manus](https://manus.im/)
