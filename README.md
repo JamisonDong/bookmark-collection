@@ -1,3 +1,4 @@
+- [freeCodeCamp.org](https://www.freecodecamp.org/chinese/learn/)
 - [Free QWQ - 免费分布式 AI 算力平台](https://qwq.aigpu.cn/)
 - [ai-bytedance/obsidian-cloud-sync](https://github.com/ai-bytedance/obsidian-cloud-sync)
 - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
