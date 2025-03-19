@@ -1,3 +1,4 @@
+- [AgentDesk](https://www.agentdesk.ai/)
 - [FilePizza • Your files, delivered.](https://file.pizza/)
 - [freeCodeCamp.org](https://www.freecodecamp.org/chinese/learn/)
 - [Free QWQ - 免费分布式 AI 算力平台](https://qwq.aigpu.cn/)
