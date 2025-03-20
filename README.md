@@ -1,3 +1,4 @@
+- [assistant-ui](https://www.assistant-ui.com/)
 - [AgentDesk](https://www.agentdesk.ai/)
 - [FilePizza • Your files, delivered.](https://file.pizza/)
 - [freeCodeCamp.org](https://www.freecodecamp.org/chinese/learn/)
