@@ -1,3 +1,4 @@
+- [ColorMuse](https://color-muse.tbonesoft.com/)
 - [assistant-ui](https://www.assistant-ui.com/)
 - [AgentDesk](https://www.agentdesk.ai/)
 - [FilePizza • Your files, delivered.](https://file.pizza/)
