@@ -1,3 +1,4 @@
+- [Inscribed: a slide-based tool for fast sketching and animating ideas](https://inscribed.app/)
 - [ColorMuse](https://color-muse.tbonesoft.com/)
 - [assistant-ui](https://www.assistant-ui.com/)
 - [AgentDesk](https://www.agentdesk.ai/)
