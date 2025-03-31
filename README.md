@@ -1,3 +1,4 @@
+- [Open-Source MCP servers](https://glama.ai/mcp/servers?sortingOrder=search-relevance%3Adesc)
 - [Khoj AI](https://app.khoj.dev/)
 - [NewsNow - 优雅的新闻聚合阅读器](https://newsnow.busiyi.world/)
 - [Inscribed: a slide-based tool for fast sketching and animating ideas](https://inscribed.app/)
