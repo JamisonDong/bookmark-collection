@@ -1,3 +1,4 @@
+- [Genspark - Reinvent Search. Welcome to the Agentic Engine.](https://www.genspark.ai/)
 - [DeepWiki](https://deepwiki.com/)
 - [Open-Source MCP servers](https://glama.ai/mcp/servers?sortingOrder=search-relevance%3Adesc)
 - [Khoj AI](https://app.khoj.dev/)
