@@ -1,3 +1,4 @@
+- [支持 Android 自动化 - Midscene.js](https://midscenejs.com/zh/blog-support-android-automation.html)
 - [Genspark - Reinvent Search. Welcome to the Agentic Engine.](https://www.genspark.ai/)
 - [DeepWiki](https://deepwiki.com/)
 - [Open-Source MCP servers](https://glama.ai/mcp/servers?sortingOrder=search-relevance%3Adesc)
