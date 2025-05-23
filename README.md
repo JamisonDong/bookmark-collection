@@ -1,3 +1,4 @@
+- [Museum of All Things by Maya Claire](https://mayeclair.itch.io/museum-of-all-things)
 - [AI Voice Cloning - Realistic AI Voice Generator](https://aivoicecloning.io)
 - [支持 Android 自动化 - Midscene.js](https://midscenejs.com/zh/blog-support-android-automation.html)
 - [Genspark - Reinvent Search. Welcome to the Agentic Engine.](https://www.genspark.ai/)
