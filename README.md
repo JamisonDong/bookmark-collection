@@ -1,3 +1,4 @@
+- [编程语言转换学习平台 | 从已知语言快速掌握新语言](https://langshift.dev)
 - [Museum of All Things by Maya Claire](https://mayeclair.itch.io/museum-of-all-things)
 - [AI Voice Cloning - Realistic AI Voice Generator](https://aivoicecloning.io)
 - [支持 Android 自动化 - Midscene.js](https://midscenejs.com/zh/blog-support-android-automation.html)
