@@ -4,7 +4,7 @@
 - [AI Voice Cloning - Realistic AI Voice Generator](https://aivoicecloning.io)
 - [支持 Android 自动化 - Midscene.js](https://midscenejs.com/zh/blog-support-android-automation.html)
 - [Genspark - Reinvent Search. Welcome to the Agentic Engine.](https://www.genspark.ai/)
-- [DeepWiki](https://deepwiki.com/)
+- [DeepWiki | AI documentation you can talk to, for every repo](https://deepwiki.com/)
 - [Open-Source MCP servers](https://glama.ai/mcp/servers?sortingOrder=search-relevance%3Adesc)
 - [Khoj AI](https://app.khoj.dev/)
 - [NewsNow - 优雅的新闻聚合阅读器](https://newsnow.busiyi.world/)
