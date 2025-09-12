@@ -1,3 +1,4 @@
+- [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
 - [Liquid Glass in the Browser: Refraction with CSS and SVG — kube.io](https://kube.io/blog/liquid-glass-css-svg) #css
 - [Sol • Atlas of Space](https://atlasof.space/sol)
 - [中小学语文示范诵读库 - 优质课文朗读资源](https://zedex.github.io/mandarin-reading-resource/)
