@@ -1,3 +1,4 @@
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
 - [Preface - Tiny LLM - LLM Serving in a Week](https://skyzh.github.io/tiny-llm/)
 - [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
