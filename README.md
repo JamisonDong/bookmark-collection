@@ -1,3 +1,4 @@
+- [OpenAI Codex](https://openai.com/zh-Hans-CN/codex/)
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat) #ai
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
 - [Preface - Tiny LLM - LLM Serving in a Week](https://skyzh.github.io/tiny-llm/)
