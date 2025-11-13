@@ -1,3 +1,4 @@
+- [Smart Excalidraw](https://smart-excalidraw.aizhi.site/)
 - [Overview Leaderboard | LMArena](https://lmarena.ai/leaderboard) #ai
 - [OpenAI Codex](https://openai.com/zh-Hans-CN/codex/)
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat) #ai
