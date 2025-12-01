@@ -1,3 +1,4 @@
+- [快速入门 - 首页](https://www.luochang.ink/dive-into-langgraph/quickstart/)
 - [Smart Excalidraw](https://smart-excalidraw.aizhi.site/)
 - [Overview Leaderboard | LMArena](https://lmarena.ai/leaderboard) #ai
 - [OpenAI Codex](https://openai.com/zh-Hans-CN/codex/)
