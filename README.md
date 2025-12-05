@@ -1,3 +1,4 @@
+- [We finished the Chinese release](https://zh.annas-archive.org/blog/finished-chinese-release.html)
 - [快速入门 - 首页](https://www.luochang.ink/dive-into-langgraph/quickstart/)
 - [Smart Excalidraw](https://smart-excalidraw.aizhi.site/)
 - [Overview Leaderboard | LMArena](https://lmarena.ai/leaderboard) #ai
