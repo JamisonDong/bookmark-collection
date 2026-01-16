@@ -1,3 +1,4 @@
+- [AI Dream Meaning Analyzer - Free & Accurate | DreamMeaning](https://dreammeaning.ai)
 - [We finished the Chinese release](https://zh.annas-archive.org/blog/finished-chinese-release.html)
 - [快速入门 - 首页](https://www.luochang.ink/dive-into-langgraph/quickstart/)
 - [Smart Excalidraw](https://smart-excalidraw.aizhi.site/)
