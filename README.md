@@ -1,3 +1,4 @@
+- [Prompt Packs | OpenAI Academy](https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c)
 - [numman-ali/openskills](https://github.com/numman-ali/openskills)
 - [AI Dream Meaning Analyzer - Free & Accurate | DreamMeaning](https://dreammeaning.ai)
 - [We finished the Chinese release](https://zh.annas-archive.org/blog/finished-chinese-release.html)
