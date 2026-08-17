@@ -1,3 +1,4 @@
+- [my server is a phone now](https://seg6.space/posts/phone-server/)
 - [SauceNAO Reverse Image Search](https://saucenao.com/) #image-search
 - [宇宙的5%](https://seanwong17.github.io/Future-Style-Periodic-Table/) #元素周期表
 - [ExploringTheCodeWorld/relationship-ts](https://github.com/ExploringTheCodeWorld/relationship-ts) #relationship
